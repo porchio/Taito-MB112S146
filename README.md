@@ -3,6 +3,7 @@
 
 This was created by studying an original IC's behaviour.
 It is NOT fully implemented and was only created to work with Arkanoid which I have tested and it seems to work OK using an EPM7064 CPLD.
+Thanks to NES4LIFE and Banjo Guy Ollie for loaning me the hardware.
 
 				+---------v---------+
 			/Load	|1		  28|	VCC
